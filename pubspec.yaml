@@ -1,0 +1,38 @@
+name: church_test
+description: National Freedom Pentecostal Church App.
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.12
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/banner.jpg
+    - assets/images/pastor.jpg
+    - assets/images/mother.jpg
+    - assets/images/choir.jpg
+    - assets/images/media.jpg
+    - assets/images/youth.jpg
+    - assets/images/church.jpg
+    - assets/images/facebook.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
